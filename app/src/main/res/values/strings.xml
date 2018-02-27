@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cicloDeVidaActivity</string>
+    <string name="oncreate">oncreate</string>
+    <string name="onstart">onstart</string>
+    <string name="onresume">onresume</string>
+    <string name="onrestart">onrestart</string>
+    <string name="onpause">onpause</string>
+    <string name="onstop">onstop</string>
+    <string name="ondestrou">ondestroy</string>
+</resources>
